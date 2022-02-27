@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking glasse for the sovle vvorthy to be hung up in every house in this kingdome, and to be looked in daily; for herein is to be seene what sinnes tend to the breach of every one of Gods commandements, whereby every one of us may clearly see, how farre forth wee have had a hand in pulling downe this heavie judgement of warre upon this nation. And so consequently, what cause wee have to humble our selves, and pray, and seeke Gods face, and turne from our evill wayes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88533</idno>
+            <idno type="STC">Wing L3032</idno>
+            <idno type="STC">Thomason 669.f.8[26]</idno>
+            <idno type="STC">ESTC R212103</idno>
+            <idno type="EEBO-CITATION">99870755</idno>
+            <idno type="PROQUEST">99870755</idno>
+            <idno type="VID">161077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161077)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f8[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking glasse for the sovle vvorthy to be hung up in every house in this kingdome, and to be looked in daily; for herein is to be seene what sinnes tend to the breach of every one of Gods commandements, whereby every one of us may clearly see, how farre forth wee have had a hand in pulling downe this heavie judgement of warre upon this nation. And so consequently, what cause wee have to humble our selves, and pray, and seeke Gods face, and turne from our evill wayes.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Licensed and entred according to Order, and printed by Tho: Paine and Math: Symmons, in Goldsmiths Alley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>September 19. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With engraved border.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:161077:1" rendition="simple:additions"/>
+            <head>A LOOKING GLASSE FOR THE SOVLE, VVorthy to be hung up in every Houſe in this Kingdome, and to be looked in daily; for herein is to be ſeene what ſinnes tend to the breach of every one of Gods Commandements, whereby every one of us may clearly ſee, how farre forth wee have had a hand in pulling downe this heavie Judgement of Warre upon this Nation. And ſo conſequently, <hi>what cauſe wee have to humble our ſelves, and pray, and ſeeke Gods face, and turne from our evill wayes.</hi>
+            </head>
+            <div n="1" type="commandment">
+               <head>Sinnes againſt the firſt Commandement.</head>
+               <p>1 ATheiſme <note n="a" place="margin">Pſal 14 1.</note>, which is when men either think there is no God, or live as if there were no God. 2. <note n="b" place="margin">1 Cor. 8 4.</note> Idolatry, which is the having of a falſe God. 3. <note n="c" place="margin">1 Chro. 28. 9.</note> Ignorance, uncapablenes of knowledge, errours and hereſies. 4. <note n="d" place="margin">Eccleſ. 12. 1. Gen. 40. 23.</note> Forgetfulneſſe of good things, eſpecially of thoſe that moſt concerne us, and chiefly at that inſtant when wee ſhould make moſt uſe of them. 5. <note n="e" place="margin">Iſa. 44. 4.</note> Re<g ref="char:EOLhyphen"/>membring of evill things, eſpecially thoſe that may moſt corrupt us, and chiefly then when we ſhould be moſt free from the thought of them. 6. <note n="f" place="margin">1 Chro 28. 9.</note> Unwillingneſſe unto good things, principally to the beſt 7. <note n="g" place="margin">Hoſ. 5. 11.</note> Readineſſe unto and wilfulneſſe in evill, eſpecially the worſt. <note n="h" place="margin">Luke 21. 19.</note> Im<g ref="char:EOLhyphen"/>patience under Croſſes. 8. <note n="i" place="margin">Pro. 3. 5.</note> Diſtruſt of Gods power, mercy, promiſes, and providence; whence carnall feares are wrought and cheriſhed, and the true feare of God is expelled and baniſhed. 9. <note n="k" place="margin">Deut. 29. 19.</note> Preſumption upon Gods mercy. 10. <note n="l" place="margin">Jer. 17. 5.</note> Carnall confidence, in wit, learning, wealth, ſtrength, friends, &amp;c. Thinking our ſelves the better of ſafer ſimply for them; whence ariſeth pride and ſecuritie. 11. <note n="m" place="margin">1 Joh. 2. 15.</note> 1. Love of evill, as alſo carnall of our ſelves, our friends, our profit, credit, &amp;c. 2. <note n="n" place="margin">Deut. 6. 5.</note> Too little love of God, of goodneſſe, of Gods ſervants and ſervices. 12. <note n="o" place="margin">2 Chro. 19. 2.</note> Hatred of God and goodneſſe, and want of hatred againſt our own and others ſinnes. 13. <note n="p" place="margin">2 Cor 7. 10.</note> Abundance of worldly, ſhame, and diſcontentment. <note n="q" place="margin">Rom 12. 15.</note> And want of godly ſorrow and indignation againſt our owne and others tranſgreſſions, and not lamenting for the calamitie of Gods people, private or publick. 14. <note n="r" place="margin">Eccle. 7. 2.</note> Immoderate carnall mirth, <note n="s" place="margin">Philip. 4. 4.</note> and too little ſpirituall joy. 15. <note n="t" place="margin">Heb. 3. 8.</note> Hardneſſe of heart, benummedneſſe of Conſcience, or helliſh terrors and accuſati<g ref="char:EOLhyphen"/>ons, proceeding from doing things without or againſt the Word of God.</p>
+            </div>
+            <div n="2" type="commandment">
+               <head>Sinnes againſt the ſecond Commandement.</head>
+               <p>1. <note n="u" place="margin">Act. 17. 23.</note> Baſe and unwarranted conceits of God, as when we frame any Image of him in our minds. 2. <note n="w" place="margin">Exod. 34. 14.</note> Worſhipping of Images; 3. <note n="x" place="margin">Rev. 19. 10.</note> Adoration of Angels, <note n="y" place="margin">Iſa. 63. 16.</note> or Saints, obſerving holy dayes, in devotion to them, <note n="z" place="margin">Deut. 6. 13.</note> or ſwearing by them. 4. Approbation of Idolatry, by preſence, ſpeech, geſture, ſilence; <note n="a" place="margin">Deut. 7. 25.</note> keeping of ſuperſtitious Relickes, and Monuments; <note n="b" place="margin">1 Cor. 5. 10.</note> keeping fami<g ref="char:EOLhyphen"/>liar and unneceſſary company with Idolaters, &amp;c. 5. <note n="c" place="margin">Tit. 3. 1.</note> Neglect of any of Gods ordinances, as of preaching, hearing, reading, meditation, conference, the uſe of good Bookes, and of good Company, of private and publick prayer, faſting, and making of vowes. 6. <note n="d" place="margin">Pſal. 76. 11.</note> Superſtitious fa<g ref="char:EOLhyphen"/>ſting, raſh vowes, breach of lawfull vowes, abuſe of lots, &amp;c. and want of ſorrow for being borne of Idolatrous parents, or forefathers.</p>
+            </div>
+            <div n="3" type="commandment">
+               <head>Sinnes againſt the third Commandement.</head>
+               <p>1. <note n="e" place="margin">2 Sam. 12. 13.</note> Profeſſion joyned with profaneneſſe, whereby Gods name is diſhonoured: 2. <note n="f" place="margin">Deut. 6. 6.</note> Abu<g ref="char:EOLhyphen"/>ſing of Gods Word, either by fruitleſſe ſpeaking of it, or <note n="g" place="margin">Pro. 17. 7.</note> framing jeſts out of it, or againſt it, or by maintaining of ſinne out of it, or by applying it to charmes. 3. <note n="h" place="margin">Deut. 28. 59.</note> Abuſing the names or titles of God, either by way of admiration, as by ſaying in our common talke; <hi>O Lord, O Jeſus,</hi> or elſe by curſing, 4. <note n="i" place="margin">Zech. 8. 17.</note> Swearing vainely, outragiouſly, or falſly: 5. Blaſphemie. 6. Taking a lawfull oath without reverence or conſideration. 7. <note n="k" place="margin">Eccleſ. 5. 1.</note> Praying without faith, feeling, reverence, fervency, not waiting for an anſwer; asking evill things, ayming <note n="l" place="margin">Mat. 6. 4.</note> more in our requeſts at the relieving of our neceſſities, then at the advanceme<g ref="char:cmbAbbrStroke">̄</g>t of Gods glory. 8. <note n="m" place="margin">Act. 10 33.</note> Hea<g ref="char:EOLhyphen"/>ring, reading, meditating, conferring, ſinging of Pſalmes, and receiving the Sacrament with<g ref="char:EOLhyphen"/>out preparation, attention, reverence, delight and profit. 9. <note n="n" place="margin">Pſal. 8. 3.</note> Lightly paſſing over Gods great workes of creation, preſervation, redemption; as alſo of other his mercies and judge<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div n="4" type="commandment">
+               <head>Sinnes againſt the fourth Commandement.</head>
+               <p>1. <note n="o" place="margin">Exod. 20. 8.</note> Neglect of preparation for the Sabbath before it come, and of fitting our hearts for holy ſervices when it is come: 2. <note n="p" place="margin">1 Tim. 4. 13.</note> prophane abſence from, or unfruitfull preſence at Gods Ordinances; 3. <note n="q" place="margin">Luk. 17. 27.</note> Exceſſive eating and drinking, thereby making our ſelves drouſie, and unfit for duties; 4. <note n="r" place="margin">Deut. 5. 14.</note> Doing any ordinary worke of our calling; 5. All recreations which diſtract us; 6. <note n="s" place="margin">Iſa. 58. 13.</note> Vaine and worldly thoughts and ſpeeches; 7. <note n="t" place="margin">Amos 8. 5.</note> A ſecret deſire that the Sabbath were over; 8. Neglect of calling our ſelves or others to a reckoning after the exerciſes are ended; 9. Giving libertie to our ſelves in the night before the Sabbath be ended.</p>
+            </div>
+            <div n="5" type="commandment">
+               <head>Sinnes againſt the fifth Commandement.</head>
+               <div type="part">
+                  <head>Sinnes of children in reſpect of their parents.</head>
+                  <p>1. <note n="u" place="margin">Prov. 15. 10.</note> Murmuring at their parents corrections, or any <note n="x" place="margin">Epheſ. 6. 1.</note> diſobedience to any lawful command, <note n="y" place="margin">Pro. 30. 17.</note> or contemning them for any defect of body or mind; 2. <note n="z" place="margin">Pro. 23. 22.</note> Unthankfulneſſe, manifeſted in not relieving them, nor ſtanding for their deſerved credit.</p>
+               </div>
+               <div type="part">
+                  <head>Sinnes of Parents.</head>
+                  <p>1. <note n="a" place="margin">Epheſ. 6. 4.</note> Negligence, in not inſtructing their children betimes, or <note n="b" place="margin">Pro. 19. 18.</note> not correcting them till it be too late, or doing it with bitterneſſe, without compaſſion, inſtruction, and prayer. 2. <note n="c" place="margin">Joh. 13. 13.</note> Gi<g ref="char:EOLhyphen"/>ving them ill example; <note n="d" place="margin">Gen. 4. 2.</note> not bringing them up in ſome lawfull calling: 4. <note n="e" place="margin">1 Cor. 7. 36.</note> Not beſtowing them timely and religiouſly in marriage: 5. <note n="f" place="margin">1 King. 1. 6.</note> Light behaviour before them, and too much fa<g ref="char:EOLhyphen"/>miliaritie with them, whereby they become vile in their eyes; <note n="g" place="margin">Gen. 21. 7.</note> a ſinne peculiar to the mother, is refuſing to nurſe her children, when ſhe is able and fit.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of ſervants.</head>
+                  <p>1. <hi rend="sup">h</hi> Idleneſſe in their calling: 2. <note n="i" place="margin">1 Cor. 4. 2.</note> unthriftineſſe and unfaithfulneſſe in dealing with their <note place="margin">
+                        <hi>g</hi> Rom. 12. 11.</note> Maſters goods, and affaires, ſtealing from them, or any way defrauding of them. 4. <note n="k" place="margin">Col. 3. 22.</note> Eye<g ref="char:EOLhyphen"/>ſervice. 5. Any expreſſion of diſobedience to any lawfull command.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of Maſters.</head>
+                  <p>1. <note n="l" place="margin">Gen 18. 19.</note> Unadviſed entertainment of ſinfull ſervants: 2. Not uſing religious exerciſes with them, not admoniſhing, or <note n="m" place="margin">Pro. 29. 19.</note> correcting them, or doing it in an ill manner, or being more <note n="n" place="margin">Luke 10. 41.</note> troubled when they faile in their buſineſſe, then when they are ſlack in Gods ſervice. 3. <note n="o" place="margin">James 5. 4.</note> Not recompencing their labours, by giving them a due reward for their ſervice. 4. <note n="p" place="margin">Mat. 8. 6.</note> Neglect of them in their ſickneſſe or unjuſt ſtopping of their wages for that time.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of wives.</head>
+                  <p>1. <note n="q" place="margin">Epheſ. 5. 33.</note> Failing in reverence, which appeareth in froward lookes, ſpeeches, and behaviour; 2. Diſobedience in the <note n="r" place="margin">Exod 23. 24.</note> ſmalleſt matters.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of the husband.</head>
+                  <p>1. <note n="s" place="margin">1 Pet. 3. 7.</note> Not dwelling with his wife: 2. Neglect of <note n="t" place="margin">1 Theſ. 5. 11.</note> edifying her by inſtruction and example: 3. denying her comfortable maintenance and imployment.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes common to them both.</head>
+                  <p>1. <note n="u" place="margin">Col. 3. 14.</note> Want of love: 2. Bewraying each others infirmities, or diſcovering each others ſe<g ref="char:EOLhyphen"/>crets: 3. <note n="x" place="margin">Tit. 2. 4.</note> Jelouſie: 4. Contention.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of Subjects.</head>
+                  <p>1. Rebellion. 2. <note n="y" place="margin">Rom. 13. 7.</note> Refuſing to pay dues.</p>
+               </div>
+               <div type="part">
+                  <head>The ſinnes of Magiſtrates.</head>
+                  <p>1. <note n="z" place="margin">Rom. 13 3, 4.</note> Careleſneſſe in eſtabliſhing and promoting true Religion: 2. Careleſneſſe of maintain<g ref="char:EOLhyphen"/>ing peace, and not providing that offenders may be puniſhed, and well-doers incouraged.</p>
+               </div>
+            </div>
+            <div n="6" type="commandment">
+               <head>Sinnes againſt the ſixth Commandement.</head>
+               <p>1. <note n="a" place="margin">Mar. 5. 22.</note> Raſh anger, envie, <note n="b" place="margin">1 Joh. 3. 15.</note> hatred, malice: 2. <note n="c" place="margin">Epheſ. 4. 31.</note> Brawling, reviling, threatning and provoking of others: 3. Fighting: 4. Crueltie in puniſhing, oppreſſion: 5. <note n="d" place="margin">Deut. 5. 17.</note> Murdering our ſelves or others, or conſenting thereunto. 6. Immoderate worldly ſorrow. 7. Neglect of the uſe of meanes, either for the good of ſoule or body.</p>
+            </div>
+            <div n="7" type="commandment">
+               <head>Sinnes againſt the ſeaventh Commandement.</head>
+               <p>1. <note n="e" place="margin">Deut. 5. 10.</note> Adultery, fornication, inceſt, rage, ſodomie. 2. <note n="f" place="margin">Epheſ. 5. 3.</note> All wantonneſſe, ſecret or open, a<g ref="char:EOLhyphen"/>lone or with others: 3. <note n="g" place="margin">38. 10.</note> Nocturnall polutions, luſtfull dreames: 4. <note n="h" place="margin">2 Cor. 4. 16.</note> Unholy marriages, in regard of Religion, age, nearneſſe of bloud, want of parents conſent: 5. <note n="i" place="margin">Gal. 5. 13.</note> Nouriſhing of the cauſes and occaſions of wantonneſſe, as impure luſts, gluttonie, drunkenneſſe, idleneſſe, laſci<g ref="char:EOLhyphen"/>vious apparell, ſocietie with laſcivious perſons, lewd books, ſongs or ſpeeches, wanton looks, pictures, ſtage-playes, dancing, dalliance, &amp;c.</p>
+            </div>
+            <div n="8" type="commandment">
+               <head>Sinnes againſt the eight Commandement.</head>
+               <p>1. <note n="k" place="margin">Col. 3. 5.</note> Covetouſneſſe, and all deſire of our Neighbours goods, robbing of our ſelves, by waſt<g ref="char:EOLhyphen"/>fulneſſe in dyet, apparell, gaming, idleneſſe, unadviſed ſuretiſhip, niggardlineſſe, &amp;c. 2. <note n="l" place="margin">Pro. 18. 9.</note> Rob<g ref="char:EOLhyphen"/>bing of others, in taking away the <note n="m" place="margin">Deut. 5. 19.</note> ſmalleſt things, either by <note n="n" place="margin">1 Theſ. 4 6.</note> fraud, or uncharitable inclo<g ref="char:EOLhyphen"/>ſure, or dealing wrongfully with the goods of the deceaſed, or by deceit in buying or ſelling, or withholding things committed, or things ſound, lent, earned, or otherwiſe due, <note n="o" place="margin">Luke 19. 8.</note> not ma<g ref="char:EOLhyphen"/>king of reſtitution, or counſelling, or conſenting to others in any of theſe things.</p>
+            </div>
+            <div n="9" type="commandment">
+               <head>Sinnes againſt the ninth Commandement.</head>
+               <p>1. <note n="p" place="margin">Deut. 5. 20.</note> Falſe witneſſe-bearing in publick or private, or conſenting thereunto: 2. <note n="q" place="margin">Zech. 8. 17.</note> Raiſing, ſpreading abroad, or <note n="r" place="margin">Levit. 19. 16.</note> liſtening to falſe reports of tale-bearers: 3. Raſh ſuſpition, <note n="s" place="margin">Mat. 7. 1.</note> hard judg<g ref="char:EOLhyphen"/>ing, interpreting things in the worſt ſence. 4. <note n="t" place="margin">James 3. 17.</note> Aggravating and diſcovering others infirmi<g ref="char:EOLhyphen"/>ties, without care of their credit, others edification, or our own good. 5. Flattering, lying, whether in jeſt or to a good end, boaſting: 6. Want of care of our own or others good name, that God might have the more glory.</p>
+            </div>
+            <div type="commandment">
+               <head>Sinnes againſt the laſt Commandement.</head>
+               <p>
+                  <note n="u" place="margin">Deut. 5 21.</note> The leaſt evill motion or thought of failing in any of the foreſaid duties, either to God, or to our neighbour, <note n="x" place="margin">Rom. 7 7.</note> although we conſent not to it, but doe abhorre it preſently, or doing any of the foreſaid duties, with any ſpirit of vaine glory, or any other by-reſpect, and not in zeale of <note n="y" place="margin">1 Cor. 10. 31.</note> Gods glory, and the good of our neighbour.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licenſed and entred according to Order, and Printed by <hi>Tho: Paine</hi> and <hi>Math: Symmons,</hi> in <hi>Goldſmiths</hi> Alley, <hi>September</hi> 19. 16 43.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
